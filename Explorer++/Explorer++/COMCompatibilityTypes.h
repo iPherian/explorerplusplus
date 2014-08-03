@@ -6,7 +6,7 @@
 // Alias for IDataObjectAsyncCapability
 typedef IDataObjectAsyncCapability IAsyncOperation;
 
-// Alias for IID_IAsyncOperation
+// Alias for IID_IDataObjectAsyncCapability
 #define IID_IAsyncOperation IID_IDataObjectAsyncCapability
 
 #endif 	/* __IDataObjectAsyncCapability_INTERFACE_DEFINED__ */
